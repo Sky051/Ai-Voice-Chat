@@ -15,8 +15,8 @@ Copy
 Edit
 git clone https://github.com/Sky051/Ai-Voice-Chat.git
 cd Ai-Voice-Chat
-Install Dependencies:
 
+Install Dependencies:
 bash
 Copy
 Edit
@@ -82,3 +82,6 @@ GitHub
 
 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+![image](https://github.com/user-attachments/assets/6d995628-1281-44b7-99da-277528333436)
+
